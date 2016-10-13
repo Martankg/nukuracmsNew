@@ -1,0 +1,7 @@
+.htaccess
+components
+system
+index.php
+templates
+uploads
+widgets
